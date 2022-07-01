@@ -1,0 +1,17 @@
+C:\AIM\Winform\TCPIPClientTest\TCPIPClientTest\bin\Debug\net6.0-windows\TCPIPClientTest.exe
+C:\AIM\Winform\TCPIPClientTest\TCPIPClientTest\bin\Debug\net6.0-windows\TCPIPClientTest.deps.json
+C:\AIM\Winform\TCPIPClientTest\TCPIPClientTest\bin\Debug\net6.0-windows\TCPIPClientTest.runtimeconfig.json
+C:\AIM\Winform\TCPIPClientTest\TCPIPClientTest\bin\Debug\net6.0-windows\TCPIPClientTest.dll
+C:\AIM\Winform\TCPIPClientTest\TCPIPClientTest\bin\Debug\net6.0-windows\TCPIPClientTest.pdb
+C:\AIM\Winform\TCPIPClientTest\TCPIPClientTest\obj\Debug\net6.0-windows\TCPIPClientTest.csproj.AssemblyReference.cache
+C:\AIM\Winform\TCPIPClientTest\TCPIPClientTest\obj\Debug\net6.0-windows\TCPIPClientTest.Form1.resources
+C:\AIM\Winform\TCPIPClientTest\TCPIPClientTest\obj\Debug\net6.0-windows\TCPIPClientTest.csproj.GenerateResource.cache
+C:\AIM\Winform\TCPIPClientTest\TCPIPClientTest\obj\Debug\net6.0-windows\TCPIPClientTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\AIM\Winform\TCPIPClientTest\TCPIPClientTest\obj\Debug\net6.0-windows\TCPIPClientTest.AssemblyInfoInputs.cache
+C:\AIM\Winform\TCPIPClientTest\TCPIPClientTest\obj\Debug\net6.0-windows\TCPIPClientTest.AssemblyInfo.cs
+C:\AIM\Winform\TCPIPClientTest\TCPIPClientTest\obj\Debug\net6.0-windows\TCPIPClientTest.csproj.CoreCompileInputs.cache
+C:\AIM\Winform\TCPIPClientTest\TCPIPClientTest\obj\Debug\net6.0-windows\TCPIPClientTest.dll
+C:\AIM\Winform\TCPIPClientTest\TCPIPClientTest\obj\Debug\net6.0-windows\refint\TCPIPClientTest.dll
+C:\AIM\Winform\TCPIPClientTest\TCPIPClientTest\obj\Debug\net6.0-windows\TCPIPClientTest.pdb
+C:\AIM\Winform\TCPIPClientTest\TCPIPClientTest\obj\Debug\net6.0-windows\TCPIPClientTest.genruntimeconfig.cache
+C:\AIM\Winform\TCPIPClientTest\TCPIPClientTest\obj\Debug\net6.0-windows\ref\TCPIPClientTest.dll
